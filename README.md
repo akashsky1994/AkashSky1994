@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Akash Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**AkashSky1994/AkashSky1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science Engineer with an experience of around 3.5 years working on ecommerce products and personalized search solution at [LBB](https://lbb.in).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Smart Ledger System to handle the financial audits and payouts
+- 🌱 I’m currently working on a guided AI project. Checkout my repos 
+- ⚡ Previously Experience :- [BookChor](https://bookchor.com)
+- 👯 Open to freelance projects in Golang & NodeJS ([Upwork](https://www.upwork.com/freelancers/~0162796275358602f7?viewMode=1))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Akash's Work github stats](https://github-readme-stats.vercel.app/api?username=akash-sky1994&count_private=true&include_all_commits=true&theme=radical)](https://github.com/akash-sky1994)
+
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+
+
+
+<!-- This section you create this variables that are used above -->
+[website]: https://akashmishra.me
+[linkedin]: https://www.linkedin.com/in/akash-mishra1994/
