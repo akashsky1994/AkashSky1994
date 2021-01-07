@@ -4,7 +4,7 @@ A Computer Science Engineer with an experience of around 3.5 years working on ec
 <br> NodeJS | Golang | Python | PHP | MongoDB | MySQL | AWS | Elasticsearch
 
 - 🔭 I’m currently working on Smart Ledger System to handle the financial audits and payouts
-- 🌱 I’m currently working on a guided AI project. Checkout my repos 
+- 🌱 I’m currently working on a guided AI project involving CSP, Adversial Search and Probabilistic Models.
 - ⚡ Previously Experience :- [BookChor](https://bookchor.com)
 - 👯 Open to freelance projects in Golang & NodeJS ([Upwork](https://www.upwork.com/freelancers/~0162796275358602f7?viewMode=1))
 
