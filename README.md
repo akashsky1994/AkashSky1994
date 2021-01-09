@@ -19,5 +19,5 @@ A Computer Science Engineer with an experience of around 3.5 years working on ec
 
 
 <!-- This section you create this variables that are used above -->
-[website]: https://akashmishra.me
+[website]: http://akashmishra.me
 [linkedin]: https://www.linkedin.com/in/akash-mishra1994/
