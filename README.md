@@ -1,6 +1,7 @@
 ### Hi, I'm [Akash Mishra](http://akashmishra.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-A Computer Science Engineer with an experience of around 3.5 years working on ecommerce products and personalized search solution at [LBB](https://lbb.in).
+A Computer Science Engineer with an experience of around 4 years working on ecommerce products and personalized search solution at [LBB](https://lbb.in).
+I have recently started my masters at [NYU](https://nyu.edu) with aim to pursue study in the field of Artificial Intelligence.
 <br> NodeJS | Golang | Python | PHP | MongoDB | MySQL | AWS | Elasticsearch
 
 - 🔭 I’m currently working on Smart Ledger System to handle the financial audits and payouts
