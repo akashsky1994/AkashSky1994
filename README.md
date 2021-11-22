@@ -6,7 +6,7 @@ I have recently started my masters at [NYU](https://nyu.edu) with aim to pursue 
 
 - 🔭 I’m currently working on Smart Ledger System to handle the financial audits and payouts
 - 🌱 I’m currently working on a guided AI project involving CSP, Adversarial Search and Probabilistic Models.
-- ⚡ Previously Experience :- [BookChor](https://bookchor.com)
+- ⚡ Previously Experience :- [LBB](https://lbb.in), [BookChor](https://bookchor.com)
 - 👯 Open to freelance projects in Golang & NodeJS ([Upwork](https://www.upwork.com/freelancers/~0162796275358602f7?viewMode=1))
 
 [![Akash's Work github stats](https://github-readme-stats.vercel.app/api?username=akash-sky1994&count_private=true&include_all_commits=true&theme=radical)](https://github.com/akash-sky1994)
