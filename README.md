@@ -9,7 +9,7 @@ I have recently started my masters at [NYU](https://nyu.edu) with aim to pursue 
 - ⚡ Previously Experience :- [LBB](https://lbb.in), [BookChor](https://bookchor.com), [Thrasio](https://thras.io)
 - 👯 Open to freelance projects in Golang & NodeJS ([Upwork](https://www.upwork.com/freelancers/~0162796275358602f7?viewMode=1))
 
-[![Akash's Work github stats](https://github-readme-stats.vercel.app/api?username=akashsky1994&count_private=true&include_all_commits=true&theme=radical)](https://github.com/akash-sky1994)
+[![Akash's Work github stats](https://github-readme-stats.vercel.app/api?username=akashsky1994&count_private=true&include_all_commits=true&theme=radical)](https://github.com/akashsky1994)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
