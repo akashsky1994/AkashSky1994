@@ -11,8 +11,9 @@ A Computer Science Engineer with an experience in Software Engineering and Deep 
 
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/akashsky1994/AkashSky1994/blob/main/website.png" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/akashsky1994/AkashSky1994/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/akashsky1994/AkashSky1994/blob/main/google_scholar.png" />][gscholar]
 <br />
 
 
