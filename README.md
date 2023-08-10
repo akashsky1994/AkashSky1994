@@ -6,6 +6,7 @@ A Computer Science Engineer with an experience in Software Engineering and Deep 
 
 - 🌱 I’m currently working on Multimodal Neural Networks using Self-Supervised learning and GNNs(Graph Neural Network).
 - 🔭 I co-led a team In-house search engine using Elasticsearch as backbone, Smart Ledger System to handle the financial audits and payouts and Logistics service to handle delivery of ecommerce products.
+- Currently Voluteering at [HackforLA](hackforla.org) as Backend Engineer ()
 ⚡ Previously Experience :- [NYU - Research Assistant](https://nyu.edu), [Thrasio - SDE](https://thras.io), [LBB - SDE](https://lbb.in), [BookChor - SDE](https://bookchor.com), 
 - 👯 Open to freelance projects in ([Upwork](https://www.upwork.com/freelancers/~0162796275358602f7?viewMode=1))
 
