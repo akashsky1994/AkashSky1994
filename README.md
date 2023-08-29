@@ -11,6 +11,9 @@ A Computer Science Engineer with an experience in Software Engineering and Deep 
 ⚡ Previously Experience :- [NYU - Research Assistant](https://nyu.edu), [Thrasio - SDE](https://thras.io), [LBB - SDE](https://lbb.in), [BookChor - SDE](https://bookchor.com), 
 - 👯 Open to freelance projects in ([Upwork](https://www.upwork.com/freelancers/~0162796275358602f7?viewMode=1))
 
+<p align="left">
+    <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akashsky1994&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsky1994&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
+</p>
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/akashsky1994/AkashSky1994/blob/main/website.png" />][website]
