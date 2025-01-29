@@ -1,6 +1,6 @@
 ### Hi, I'm [Akash Mishra](http://akashmishra.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-A Computer Science Engineer with around 6 years of experience in Software Engineering and Machine Learning. Currently working as Data Scientist at CVS Health driving Specialty Pharmacy Payer Reconciliation Services. I graduated with Masters in Computer Engineering with concentration in Machine Learning. I have hands-on experience in machine learning, deep learning, computer vision, and high-performance deep learning, among others. Prior to my Masters, I have worked as Backend Engineer developing ecommerce microservices and personalized search solution at [Thrasio](https://thras.io) and [LBB](https://lbb.in).
+A Computer Science Engineer with around 6 years of experience in Software Engineering and Machine Learning. Currently working as Data Scientist at [CVS Health](https://www.cvshealth.com/) driving Specialty Pharmacy Payer Reconciliation Services. I graduated with Masters in Computer Engineering with concentration in Machine Learning. I have hands-on experience in machine learning, deep learning, computer vision, and high-performance deep learning, among others. Prior to my Masters, I have worked as Backend Engineer developing ecommerce microservices and personalized search solution at [Thrasio](https://thras.io) and [LBB](https://lbb.in).
 
 
 - Working as Software Engineer - Data Science and Machine Learning at [CVS Health](https://www.cvshealth.com/)
